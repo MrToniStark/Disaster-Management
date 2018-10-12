@@ -11,7 +11,7 @@ Google forms will be embedded into our site for the people to convey their grief
 - The site will be updated as and when necessary. Warnings and alerts will be issued whenever we will be getting information from various sources such as the Meteorological Department of India. 
 3. Users can login into the website and create their personal account in the website.The users can give their location alert to the site so as to notify them and make them quick alert about he situation. As the users get into the site they will see a couple of templates mentioning ‘Related videos’ , ‘Past issues’ ,’disaster management’ etc., With the help of these the users can know and get knowledge about the natural disasters and how to take preventive measures and what are all the serious damage that could take place due to the calamities. The users can understand the losses and consequences through the material provided in the site.
         The users will also have an opportunity to serve their people providing a service becoming volunteers. The volunteers can get a frequent information regarding the issues and provide support to people nearby by helping them.
-4. Technologies using are:
+4. Technologies we are going to use are:
       - Web Development
       - Algorithms
       - HTML, CSS, JavaScript, Bootstrap, PHP, MySQL
