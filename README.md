@@ -1,5 +1,5 @@
 # Disaster-Management
-### Website to prevent, manage the impact of natural disasters
+ Website to prevent, manage the impact of natural disasters
       We are going to prepare a Website. This website is going to help people before any Natural disasters as it will notify people as soon as The India Meteorological Department warns a particular area. In case people are trapped due to the consequences of the Natural disaster and they have internet access then this Website can bridge the gap between the victims and Rescue squad or Government through Surveys , Location access etc. This website will also contain videos which will keep them motivated and help them to manage the situation.
       For areas where internet connectivity is possible during the difficult time of disasters:
 → Basically we will be creating a website where we will be having various portals for various natural disasters.  Each disaster portal will be acting specifically different in times of alert or warning or even in the midway of a disaster and in times when there is very little chance of that particular disaster.
