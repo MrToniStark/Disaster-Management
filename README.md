@@ -14,7 +14,7 @@ Google forms will be embedded into our site for the people to convey their grief
 4. Technologies using are:
       - Web Development
       - Algorithms
-      - HTML, CSS, JAVASCRIPT, BOOTSTRAP, PHP, MySQL
+      - HTML, CSS, JavaScript, Bootstrap, PHP, MySQL
       - Machine Learning 
 
 
